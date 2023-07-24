@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
-
+.DS_Store
+office*
+milk*
+*pcd
+*checkpoint*
 # Compiled Object files
 *.slo
 *.lo
